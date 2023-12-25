@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-md-previewer/static/css/main.073c9b0a.css",
+    "main.js": "/react-md-previewer/static/js/main.50eac2a8.js",
+    "index.html": "/react-md-previewer/index.html",
+    "main.073c9b0a.css.map": "/react-md-previewer/static/css/main.073c9b0a.css.map",
+    "main.50eac2a8.js.map": "/react-md-previewer/static/js/main.50eac2a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.50eac2a8.js"
+  ]
+}
