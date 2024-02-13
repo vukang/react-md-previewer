@@ -26,7 +26,8 @@ function App() {
   
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+![Tux, the Linux mascot](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png)
+> lewing@isc.tamu.edu Larry Ewing and The GIMP, Attribution, via Wikimedia Commons
 
 ---
   
