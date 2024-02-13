@@ -49,7 +49,7 @@ Rendered by **marked**.`);
       </div>
       <div
         id='preview'
-        style={{ minHeight: '100vh' }}
+        style={{ minHeight: '98vh' }}
         dangerouslySetInnerHTML={{ __html: marked.parse(md) }}
       ></div>
     </SplitPane>
